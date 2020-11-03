@@ -1,0 +1,8 @@
+{:deps
+ {org.eclipse.jgit/org.eclipse.jgit
+  {:mvn/version "5.8.1.202007141445-r"}
+  org.eclipse.jgit/org.eclipse.jgit.ssh.apache
+  {:mvn/version "5.8.1.202007141445-r"}
+  org.eclipse.jgit/org.eclipse.jgit.gpg.bc
+  {:mvn/version "5.8.1.202007141445-r"}}
+ :path "src/clj_jgit"}
